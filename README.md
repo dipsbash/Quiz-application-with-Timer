@@ -49,7 +49,8 @@ User input with Scanner
 
 Answer tracking with List<String> (ArrayList) to store correct, incorrect, or skipped responses
 
-🛠️ Improvements (Suggestions)
+ 🛠️ Improvements (Suggestions)
+
 Add more questions or allow loading from a file
 
 Implement difficulty levels
